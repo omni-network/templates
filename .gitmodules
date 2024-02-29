@@ -1,0 +1,4 @@
+[submodule "omni-forge-template"]
+	path = omni-forge-template
+	url = https://github.com/omni-network/omni-forge-template
+	branch = main
